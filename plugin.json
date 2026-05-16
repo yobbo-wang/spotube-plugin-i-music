@@ -1,11 +1,11 @@
 {
   "version": "1.0.0",
-  "name": "DAB Music",
-  "author": "Kingkor Roy Tirtho",
-  "description": "dab.yeet.su audio source plugin for Spotube",
+  "name": "yobbo Music",
+  "author": "yobbo yang",
+  "description": "gittk.com audio source plugin for Spotube",
   "entryPoint": "DABMusicAudioSourcePlugin",
   "apis": ["localstorage", "webview"],
   "abilities": ["audio-source", "authentication"],
-  "repository": "https://github.com/KRTirtho/spotube-plugin-dab-music",
+  "repository": "http://github.com/spotube/spotube-plugin-yobbo-music",
   "pluginApiVersion": "2.0.0"
 }
